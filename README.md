@@ -14,8 +14,8 @@ Small e-commerce stores receive hundreds of repetitive support tickets weekly. 6
 
 ## Demo
 
-🎥 **Demo Video:** [ShopAssist AI Demo](https://www.loom.com/share/2fc129e73cdf42649687790c9e8521f5)
-📸 **Screenshots:** See `/screenshots/` folder
+-🎥 **Demo Video:** [ShopAssist AI Demo](https://www.loom.com/share/2fc129e73cdf42649687790c9e8521f5)
+-📸 **Screenshots:** See `/screenshots/` folder
 
 ---
 
